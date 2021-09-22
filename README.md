@@ -1,5 +1,5 @@
-![Anurag's github stats]<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tan-Yi-Cheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Tan-Yi-Cheng&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-### Hi there 👋
+## Hey, I am here! :wave:
 - 👯 I am Tan Yi Cheng.
 - 🌱 I’m currently learning IT at UUM, Malaysia.
