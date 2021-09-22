@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👯 I am Tan Yi Cheng!
+- 🌱 I’m currently studying in UUM, Malaysia!
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tan-Yi-Cheng)
+
 <!--
 **Tan-Yi-Cheng/Tan-Yi-Cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
