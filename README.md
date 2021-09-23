@@ -17,7 +17,7 @@ by Tan Yi Cheng
 
 <br>
 
-[<img align="justify" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-Yi-Cheng&theme=dark&layout=compact">](https://github.com/Tan-Yi-Cheng/github-readme-stats)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Tan-Yi-Cheng&theme=dark&show_icons=true">](https://metrics.lecoq.io/Tan-Yi-Cheng?template=classic)
+[<img align="justify" width="55%" src="https://github-readme-stats.vercel.app/api?username=Tan-Yi-Cheng&theme=dark&show_icons=true">](https://metrics.lecoq.io/Tan-Yi-Cheng?template=classic)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-Yi-Cheng&theme=dark&layout=compact">](https://github.com/Tan-Yi-Cheng/github-readme-stats)
 
 
