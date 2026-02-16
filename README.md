@@ -1,32 +1,35 @@
 <!--
 Source:
-- Theme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - Metrics: https://github.com/lowlighter/metrics
 - Visitor Count: https://github.com/sagar-viradiya/sagar-viradiya/blob/master/README.md
 - Dino GIF: https://github.com/saadeghi/saadeghi/blob/master/dino.gif
 
+👀 Easter egg:
+Congrats, you unlocked the “reads raw content” achievement ✅
+Secret password of the day: Dino mode ON 🦖
 by Tan Yi Cheng
 -->
 
-<h2 align="center">Hey, I am Tan Yi Cheng 👋</h2>
+## Hello 👋 Welcome! <img align="right" width="400" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="dino" />
+
+<p>
+  Software builder — C# / .NET / Web / DevOps<br/>
+  Based in Malaysia<br/>
+  Open to collaborating on small, practical projects
+</p>
+
+<br clear="right"/>
 
 <p align="center">
-  <img width="280" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="dino" />
+  <img height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+  &nbsp;&nbsp;
+  <img height="140" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coffee" />
+  &nbsp;&nbsp;
+  <img height="140" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="rocket" />
 </p>
 
 <p align="center">
-  🌱 Learning IT at <b>xxx</b>, Malaysia<br/>
-  👯 Open to collaborating on small projects
+  <a href="https://github.com/Tan-Yi-Cheng">GitHub</a> •
+  <a href="https://github.com/Tan-Yi-Cheng?tab=repositories">Projects</a> •
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
-
-<br/>
-
-<p align="center">
-  <img width="820" src="https://raw.githubusercontent.com/Tan-Yi-Cheng/Tan-Yi-Cheng/main/github-metrics.svg" alt="github metrics" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/Tan-Yi-Cheng/Tan-Yi-Cheng/main/language-metrics.svg" alt="language metrics" />
-</p>
-
-<br/>
