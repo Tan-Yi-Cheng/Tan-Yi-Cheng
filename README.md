@@ -31,5 +31,4 @@ by Tan Yi Cheng
 <p align="center">
   <a href="https://github.com/Tan-Yi-Cheng">GitHub</a> •
   <a href="https://github.com/Tan-Yi-Cheng?tab=repositories">Projects</a> •
-  <a href="mailto:your-email@example.com">Email</a>
 </p>
